@@ -9,7 +9,7 @@ and accurate. It can be concluded from the analysis of each experimental result,
 The overall architecture of the model is illustrated in the figure below：
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad88a67e-3382-47a4-bae0-04bd5701bdf8" width="80%">
+  <img src="https://github.com/user-attachments/assets/ad88a67e-3382-47a4-bae0-04bd5701bdf8" width="100%">
 </p>
 
 The main contributions of the model are as follows:
