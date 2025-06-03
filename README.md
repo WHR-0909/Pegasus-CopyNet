@@ -1,16 +1,1 @@
-![3cb412e28606ad8215a4dace7b9d1c3](https://github.com/user-attachments/assets/680396bf-2aa0-4026-81ed-a3b6b3916f66)![image](https://github.com/user-attachments/assets/3c0c5c8e-04dc-4d71-9dad-c4c49cf1d114)# Pegasus-CopyNet
-Pegasus-CopyNet: A novel Summarization Generation Framework for Scientific and Technological Texts
-This study applies text summarization techniques to scientific and technological texts. This
-enables precise matching of relevant information, which holds significant importance in the handling and practical use of technological data. However, existing models lack specificity and
-effectiveness in handling text summarization tasks for scientific and technological information,
-particularly in their ability to extract semantic features from complex texts. Therefore, this study
-introduces an automatic summarization model for scientific and technological texts based on the
-Pegasus-CopyNet framework, the framework consists of three key components. Firstly, this paper
-designs a multi-dimensional sentence masking strategy to achieve the fine-tuning of the Pegasus model on specific domain datasets,enabling it to generate word embedding vectors enriched
-with contex-tual semantic information. Secondly, these word embeddings are used as input to the
-CopyNet model, where an enhanced CNN module performs local feature extraction. Finally, a
-technological terminology vocabulary and an optimized vocabulary selection mechanism are integrated, making the model’s summaries in scientific and technological domains more professional
-and accurate. It can be concluded from the analysis of each experimental result, compared to
-baseline models, the r ouge scores in the field of scientific and technological information long-text
-summarization were improved in this paper, reaching 41.62% (ROUGE-1), 22.06% (ROUGE-2),
-and 36.41% (ROUGE-L).
+
